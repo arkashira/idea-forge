@@ -1,2 +1,5 @@
-# idea-forge
-axentx product · An AI-powered ideation tool that helps indie hackers and creators generate and validate software ideas
+# Idea Forge CLI
+
+## Usage
+
+To run the Idea Forge CLI, execute the following command:
